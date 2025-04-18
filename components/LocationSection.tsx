@@ -13,7 +13,7 @@ const LocationSection = () => {
           <div className="relative h-[450px] lg:h-[550px]"> {/* Contoh: Naikkan ke 450px & 550px */}
             {/* Update placeholder height jika perlu, tapi ini hanya visual placeholder */}
             <Image src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB8NOdqizF17mdpSUCkMgixQw3nl1DEpNqWhpzUUSsYM3UB34nXd6uYxvKlji-2oywq86u0DL2HIAZ_mtD6tbkbx27tZm4xvTOKTF96EuTA_m7GS4NSwLCQDN5jvLOuKFBFg37Ca=s1360-w1360-h1020?height=550&width=600" alt="SMA Bina Sarana" fill className="object-cover" />
-            <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-60 p-4">
+            <div className="absolute bottom-0 left-0 right-0 bg-black/60 p-4">
               <h3 className="text-2xl font-bold text-white">MTs. Al-Jihad Depok</h3>
               <p className="text-white text-sm mt-1">
                 Jalan. H. Abdul Gani I,
